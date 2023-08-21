@@ -1,2 +1,3 @@
 add_executable(cpp-fifo-producer
-    main.cpp)
+    main.cpp
+    producer.cpp)

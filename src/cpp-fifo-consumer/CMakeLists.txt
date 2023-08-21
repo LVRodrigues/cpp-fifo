@@ -1,2 +1,3 @@
 add_executable(cpp-fifo-consumer
-    main.cpp)
+    main.cpp
+    consumer.cpp)
