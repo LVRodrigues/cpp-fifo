@@ -4,7 +4,7 @@
 
 ![Static Badge](https://img.shields.io/badge/CMake-3.23-blue)
 
-Fila de mensagens usando C++. 
+Fila de mensagens entre processos usando C++. 
 
 ## cpp-fifo-producer
 
